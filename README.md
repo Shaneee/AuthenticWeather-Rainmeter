@@ -7,7 +7,7 @@ Based on AuthenticWeather for Übersicht by [reduxd](https://github.com/reduxd/a
 
 ### Installation:
 
- - Download rmskin from Releases.
+ - Download rmskin from [Releases](https://github.com/Shaneee/AuthenticWeather-Rainmeter/releases/tag/release).
  - Double click on rmskin to install to Rainmeter.
  - Navigate to your Rainmeter Skin folder/AuthenticWeather
  - Edit AuthenticWeather.ini and add your OpenWeatherMap API, Latitude and Longitude.
